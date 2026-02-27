@@ -19,3 +19,13 @@
 
 📝 Velog 정리 글  
 👉 [Day 01 학습 정리 보러가기](https://velog.io/@wjdtor_2/React-useState%EC%99%80-useEffect-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+
+---
+
+### Day 02 - Counter Upgrade
+- Reset 버튼 추가
+- 상태 기반 버튼 비활성화 구현
+- 렌더링 흐름 복습
+
+📝 Velog 정리 글  
+👉 [Day 02 학습 정리 보러가기](https://velog.io/@wjdtor_2/React-Day02-Counter-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5%EA%B3%BC-%EC%83%81%ED%83%9C-%EA%B8%B0%EB%B0%98-UI-%EC%A0%9C%EC%96%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
