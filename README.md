@@ -41,7 +41,7 @@
 
 ---
 
-### 🟢 Day 03 - Todo App (State Management Practice)
+### Day 03 - Todo App (State Management Practice)
 - Todo 추가 / 삭제 기능 구현
 - 완료 체크 기능 추가 (boolean 상태 관리)
 - 배열과 객체 state 구조 설계
