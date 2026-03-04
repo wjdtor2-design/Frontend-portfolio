@@ -55,5 +55,17 @@
 
 ---
 
+## Day 04 - Zustand & Global State
+- Zustand를 활용한 전역 상태 관리
+- Props Drilling 문제 이해
+- 전역 상태 vs 지역 상태 설계 기준 정리
+- store 구조 이해 및 직접 구현
+- TodoList 컴포넌트 분리
+- 상태 위치 설계에 대한 사고 시작
+
+📝 Velog 정리 글  
+👉 [Day 04 학습 정리 보러가기](https://velog.io/@wjdtor_2/React-Day04-Zustand%EB%A1%9C-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-Props-Drilling%EC%97%90%EC%84%9C-%EB%B2%97%EC%96%B4%EB%82%98%EA%B8%B0)
+---
+
 ### 💡 성장 중인 개발자의 기록입니다.
 매일 작은 기능이라도 완성하고, PR → Merge까지 마무리하는 것을 원칙으로 합니다.
