@@ -65,6 +65,7 @@
 
 📝 Velog 정리 글  
 👉 [Day 04 학습 정리 보러가기](https://velog.io/@wjdtor_2/React-Day04-Zustand%EB%A1%9C-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-Props-Drilling%EC%97%90%EC%84%9C-%EB%B2%97%EC%96%B4%EB%82%98%EA%B8%B0)
+
 ---
 
 ### 💡 성장 중인 개발자의 기록입니다.
