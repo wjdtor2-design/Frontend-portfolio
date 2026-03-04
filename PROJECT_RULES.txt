@@ -1,0 +1,38 @@
+[Frontend Portfolio Project Rules]
+
+1. Daily Rule
+- 하루 최소 1기능 완성
+- 기능 구현 → Git Commit → PR → Merge까지 완료
+- 미완성 상태로 두지 않는다
+
+2. Git Workflow
+- main 브랜치는 항상 배포 가능한 상태 유지
+- 기능 개발은 feature/dayXX-기능이름 브랜치에서 진행
+- 작업 완료 후 PR 생성 → main merge → 브랜치 삭제
+
+3. Commit Convention
+- feat: 새로운 기능 추가
+- fix: 버그 수정
+- refactor: 코드 구조 개선
+- docs: 문서 수정
+- chore: 기타 설정 변경
+
+4. Learning Principle
+- 단순 복붙 금지
+- 모르면 반드시 "왜?" 질문하기
+- push 대신 spread 사용 이유 설명 가능해야 함
+- map / filter 사용 이유 설명 가능해야 함
+
+5. State Management Rule
+- 직접 수정 금지 (불변성 유지)
+- 배열은 map/filter로 처리
+- 객체는 spread로 복사 후 수정
+
+6. Reflection
+- 매일 Velog 정리
+- 막혔던 부분과 해결 과정 기록
+- 이해한 개념은 반드시 글로 정리
+
+7. Goal
+- 단순 기능 구현자가 아니라
+  상태 흐름을 이해하는 프론트엔드 개발자가 되는 것
