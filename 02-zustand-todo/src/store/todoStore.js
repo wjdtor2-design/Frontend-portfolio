@@ -24,6 +24,10 @@ const useTodoStore = create((set) => ({
                 : todo
             )
         })),
+    clearTodos: () => 
+        set({
+            todos: []
+        })
 }));
 
 export default useTodoStore;

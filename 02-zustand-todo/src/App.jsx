@@ -1,6 +1,7 @@
 import { useState } from "react";
 import useTodoStore from "./store/todoStore";
 import TodoList from "./components/TodoList";
+import TodoStats from "./components/TodoStats";
 
 function App() {
   const [ input, setInput ] = useState("");
@@ -30,6 +31,8 @@ function App() {
       </form>
 
       <TodoList/>
+
+      <TodoStats/>
     </div>
   );
 }
