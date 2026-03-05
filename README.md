@@ -68,5 +68,17 @@
 
 ---
 
+## Day 05 - Todo Stats & Git Workflow
+
+- Todo 통계 기능 구현 (총 개수 / 완료 / 미완료)
+- filter()를 활용한 데이터 계산 로직 이해
+- React에서 파생 상태(Derived State) 개념 학습
+- TodoStats 컴포넌트 분리 및 UI 구성
+- 컴포넌트 역할 분리 설계 경험
+- GitHub Pull Request Workflow 실습
+
+📝 Velog 정리 글  
+👉 [Day 05 학습 정리 보러가기](https://velog.io/@wjdtor_2/React-Day05-Todo-%ED%86%B5%EA%B3%84-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8C%8C%EC%83%9D-%EC%83%81%ED%83%9CDerived-State-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+
 ### 💡 성장 중인 개발자의 기록입니다.
 매일 작은 기능이라도 완성하고, PR → Merge까지 마무리하는 것을 원칙으로 합니다.
