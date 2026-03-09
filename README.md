@@ -55,7 +55,7 @@
 
 ---
 
-## Day 04 - Zustand & Global State
+### Day 04 - Zustand & Global State
 - Zustand를 활용한 전역 상태 관리
 - Props Drilling 문제 이해
 - 전역 상태 vs 지역 상태 설계 기준 정리
@@ -68,7 +68,7 @@
 
 ---
 
-## Day 05 - Todo Stats & Git Workflow
+### Day 05 - Todo Stats & Git Workflow
 
 - Todo 통계 기능 구현 (총 개수 / 완료 / 미완료)
 - filter()를 활용한 데이터 계산 로직 이해
@@ -82,7 +82,7 @@
 
 ---
 
-## Day06 - Todo Filter 기능
+### Day06 - Todo Filter 기능
 
 Todo 리스트를 상태별로 필터링할 수 있는 기능을 구현했습니다.
 
