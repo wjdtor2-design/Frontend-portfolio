@@ -2,6 +2,7 @@ import { create } from "zustand";
 
 const useTodoStore = create((set) => ({
     todos: [],
+    filter: "all",
 
     addTodo: (text) =>
         set((state) => ({
@@ -27,7 +28,9 @@ const useTodoStore = create((set) => ({
     clearTodos: () => 
         set({
             todos: []
-        })
+        }),
+    
+    setFilter: (filter) => set({ filter })
 }));
 
 export default useTodoStore;

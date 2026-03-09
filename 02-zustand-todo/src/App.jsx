@@ -2,6 +2,7 @@ import { useState } from "react";
 import useTodoStore from "./store/todoStore";
 import TodoList from "./components/TodoList";
 import TodoStats from "./components/TodoStats";
+import TodoFilter from "./components/TodoFilter";
 
 function App() {
   const [ input, setInput ] = useState("");
@@ -30,9 +31,12 @@ function App() {
         <button type="submit">추가</button>
       </form>
 
-      <TodoList/>
+      <TodoFilter/>
 
+      <TodoList/>
+      
       <TodoStats/>
+      
     </div>
   );
 }
