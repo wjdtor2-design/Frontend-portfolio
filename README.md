@@ -80,5 +80,28 @@
 📝 Velog 정리 글  
 👉 [Day 05 학습 정리 보러가기](https://velog.io/@wjdtor_2/React-Day05-Todo-%ED%86%B5%EA%B3%84-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8C%8C%EC%83%9D-%EC%83%81%ED%83%9CDerived-State-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
+---
+
+## Day06 - Todo Filter 기능
+
+Todo 리스트를 상태별로 필터링할 수 있는 기능을 구현했습니다.
+
+- 전체 Todo 보기
+- 완료된 Todo 보기
+- 미완료 Todo 보기
+
+구현 방식:
+
+Zustand store에 `filter` 상태를 추가하고
+TodoList에서 filter 조건을 기반으로 Todo 배열을 필터링했습니다.
+
+📝 Velog 정리 글  
+👉 [Day 06 학습 정리 보러가기](https://velog.io/@wjdtor_2/React-Day06-Zustand-Todo-Filter-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+
+---
+
+
 ### 💡 성장 중인 개발자의 기록입니다.
 매일 작은 기능이라도 완성하고, PR → Merge까지 마무리하는 것을 원칙으로 합니다.
+
+---
