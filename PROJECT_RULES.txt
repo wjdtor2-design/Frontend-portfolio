@@ -6,8 +6,8 @@
 - 미완성 상태로 두지 않는다
 
 2. Git Workflow
-- main 브랜치는 항상 배포 가능한 상태 유지
-- 기능 개발은 feature/dayXX-기능이름 브랜치에서 진행
+- main 브랜치는 항상 안정적인 상태 유지
+- 기능 개발은 dayXX-기능이름 브랜치에서 진행
 - 작업 완료 후 PR 생성 → main merge → 브랜치 삭제
 
 3. Commit Convention
@@ -22,6 +22,7 @@
 - 모르면 반드시 "왜?" 질문하기
 - push 대신 spread 사용 이유 설명 가능해야 함
 - map / filter 사용 이유 설명 가능해야 함
+- 상태 관리 흐름 (Local State → Global State) 이해하기
 
 5. State Management Rule
 - 직접 수정 금지 (불변성 유지)
@@ -36,3 +37,5 @@
 7. Goal
 - 단순 기능 구현자가 아니라
   상태 흐름을 이해하는 프론트엔드 개발자가 되는 것
+- React 기반 프로젝트를 통해
+  Frontend → Fullstack 구조까지 이해하는 것을 목표로 한다
